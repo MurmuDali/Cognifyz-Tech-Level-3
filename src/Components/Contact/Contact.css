@@ -1,0 +1,19 @@
+.contact-section {
+    margin-top: 1rem;
+    text-align: center;
+    background-color: aqua;
+}
+.icon-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+a {
+    text-decoration: none;
+    margin-right: 10px;
+}
+.icon {
+    margin-top: 10px;
+    font-size: 20px;
+}

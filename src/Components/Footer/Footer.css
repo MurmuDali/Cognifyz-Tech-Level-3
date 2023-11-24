@@ -1,0 +1,31 @@
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer {
+    margin-top: auto;
+    background-color: #6e6b6b;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #6c757d;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #007bff;
+}

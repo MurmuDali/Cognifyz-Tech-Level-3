@@ -1,0 +1,43 @@
+.heading {
+    margin: 1rem 1rem;
+}
+p {
+    margin: 0 1rem;
+}
+
+.page1 .page2 {
+    margin-top: 1rem ;
+}
+ul li {
+    margin-left: 1rem;
+}
+
+.apply-btn {
+    background-color: rgb(39, 126, 207);
+    margin-top: 1rem ;
+    margin-left: 5rem;
+    padding: 10px 15px;
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    font-size: 16px ;
+    font-weight: 500;
+}
+.apply-btn:hover {
+    background-color: rgb(0, 45, 87);
+}
+.learn-more-btn {
+    background-color: rgb(39, 126, 207);
+    margin-top: 1rem ;
+    margin-left: 1rem;
+    padding: 10px 15px;
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    font-size: 16px ;
+}
+.learn-more-btn:hover {
+    background-color: rgb(0, 45, 87);
+}
