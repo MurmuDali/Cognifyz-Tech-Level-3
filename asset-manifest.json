@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cognifyz-Tech-Level-3/static/css/main.6735917e.css",
+    "main.js": "/Cognifyz-Tech-Level-3/static/js/main.a4c741a2.js",
+    "index.html": "/Cognifyz-Tech-Level-3/index.html",
+    "main.6735917e.css.map": "/Cognifyz-Tech-Level-3/static/css/main.6735917e.css.map",
+    "main.a4c741a2.js.map": "/Cognifyz-Tech-Level-3/static/js/main.a4c741a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6735917e.css",
+    "static/js/main.a4c741a2.js"
+  ]
+}
